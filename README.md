@@ -1,6 +1,4 @@
-## Yeungnam University 
-##Department of Computer Science 
-##3rd grade
+## Yeungnam University, Department of Computer Science, 3rd grade
 
 <!--
 **SeoJangwoo/SeoJangwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
