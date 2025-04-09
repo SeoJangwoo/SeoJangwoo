@@ -1,4 +1,4 @@
-## Hi, I'm SeoJangwoo and I'm a third grader majoring in computer engineering at Yeungnam University and I'm dreaming of becoming a developer
+## Hi, I'm SeoJangwoo and I'm a third grader majoring in computer science at Yeungnam University, I'm dreaming of being a developer!
 
 <!--
 **SeoJangwoo/SeoJangwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
